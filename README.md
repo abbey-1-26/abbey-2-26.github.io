@@ -15,7 +15,8 @@
 </html>
 
 ![immigration-impact-mexican-children](https://www.bbc.com/news/world-us-canada-48710432)
-<img src="https://www.bbc.com/news/world-us-canada-48710432" alt="My Image">
+<img src="https://www.bbc.com/news/world-us-canada-48710432" alt="NETART2.jp">
+
 
 
 ‹title>no one is illegal on stolen land‹/title>
